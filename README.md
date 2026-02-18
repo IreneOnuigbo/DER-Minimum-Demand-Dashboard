@@ -71,7 +71,7 @@ Exploratory analysis was performed to understand how rooftop solar affects daily
 - KPI analysis summarizing DER penetration and system demand metrics
 
 ## Key Insights
-The analysis revealed several important findings:
+Based on the analysis of the reporting period examined, several key insights were identified:
 
 - Minimum operational demand fell to 595 MW, indicating increasing system stress during midday periods
 
